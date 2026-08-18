@@ -1,7 +1,5 @@
 # Simplefolio ⚡️
 
-## A minimal portfolio template for Developers!
-
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
@@ -19,11 +17,6 @@
 - Professional way to showcase your work
 - Increases your visibility and online presence
 - Shows you’re more than just a resume
-
-## Getting Started 🚀
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites 📋
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
@@ -109,7 +102,7 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 ## Authors
 
-- **Ajay** - [https://github.com/cobiwave](https://github.com/ajaykh053-lgtm)
+- **Ajay** - [https://github.com/ajaykh053-lgtm]
 
 ## Status
 
