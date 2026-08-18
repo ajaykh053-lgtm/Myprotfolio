@@ -1,4 +1,4 @@
-# Simplefolio ⚡️
+# Myprotfolio ⚡️
 
 ## Features
 
@@ -17,21 +17,14 @@
 - Professional way to showcase your work
 - Increases your visibility and online presence
 - Shows you’re more than just a resume
+
 ### Prerequisites 📋
 
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
+You'll need [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
 
-```
 node@v16.4.2 or higher
 npm@7.18.1 or higher
 git@2.30.1 or higher
-```
-
-Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
-
-```
-yarn@v1.22.10 or higher
-```
 
 ---
 
@@ -55,7 +48,6 @@ After that, you can install the dependencies either using NPM or Yarn.
 Using NPM: Simply run the below commands.
 
 ```bash
-# 2022 Update - Fix Dependencies
 $ npm audit fix
 $ npm i @parcel/transformer-sass
 
@@ -84,13 +76,12 @@ If your run into issues installing the dependencies with NPM, use this below com
 $ sudo npm install --unsafe-perm=true --allow-root
 ```
 
-Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
+Once your server has started, go to with url
 
 ## Deployment 📦
 
 Once you finish your setup. You need to put your website online!
-
-I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
+I highly recommend to use [Vercel](https://vercel.com) because it is super easy.
 
 ## Technologies used 🛠️
 
@@ -103,7 +94,3 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 ## Authors
 
 - **Ajay** - [https://github.com/ajaykh053-lgtm]
-
-## Status
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
