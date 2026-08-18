@@ -1,5 +1,4 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
-
+# Simplefolio ⚡️
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
@@ -345,7 +344,7 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
+- **Ajay** - [https://github.com/cobiwave](https://github.com/ajaykh053-lgtm)
 
 ## Status
 
